@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": ";AAAA;;;EAGE;ACHF;;;;EAIE;AAEF;;;EAGE;ADFF,oCAAoC;EEPpC;;;IAGE;AFSF,oCAAoC;EGZpC;;;;IAIE;EACF;;;IAGE",
+"sources": ["sass/base.scss","sass/color.scss","sass/smartphone/smartphone-global.scss","sass/tablet/tablet-global.scss"],
+"names": [],
+"file": "style.css"
+}

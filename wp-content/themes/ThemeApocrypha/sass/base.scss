@@ -1,0 +1,20 @@
+/*
+Theme Name: Apocrypha
+template :Apocrypha
+*/
+@import "color.scss";
+
+
+@media screen and (min-width: 540px){
+    @import "smartphone/smartphone-global.scss";
+
+}
+
+@media screen and (min-width: 768px){
+    @import "tablet/tablet-global.scss";
+
+}
+
+@media screen and (min-width: 992px){
+    @import "desktop/desktop-global.scss";
+}
